@@ -12,4 +12,6 @@
 
 - This data can be utilized for applying various Machine Learning and NLP models for a plethora of problem statements.
 
+#### Credits: Venelin Valkov
+
 Happy Coding!
